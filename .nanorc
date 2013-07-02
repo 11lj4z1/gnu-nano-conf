@@ -1,0 +1,11 @@
+set nohelp
+set const
+set morespace
+set nonewlines
+set noconvert
+set mouse
+set smooth
+set nowrap
+set tabsize 2
+set tabstospaces
+set autoindent
